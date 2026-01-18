@@ -1,0 +1,5 @@
+{
+  "name": "AIChefStep - Daily Cooking Planner",
+  "description": "An AI-powered micro-app that transforms your schedule and available ingredients into a structured, actionable cooking to-do list.",
+  "requestFramePermissions": []
+}
